@@ -7,7 +7,7 @@ The aim is to understand how to make an online game where players can connect to
 
 Using only a text file (.txt) to store player informations (account, password, username, statistics) since the project is focusing on create a connection between 2 users (If I have time I will use another better method to store beccause this is lame)
 
-Make sure to run the main file on the Tic-Tac-Toe Server folder (project) first, so that the CaroClient folder (project) can run properly.
+Make sure to run the main file on the Tic-Tac-Toe Server folder (project) first, so that the code in this repo (project) could run properly.
 
 Tic-Tac-Toe Server source code: https://github.com/HwuPhuc/Tic-Tac-Toe-Server
 
